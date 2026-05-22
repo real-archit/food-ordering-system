@@ -146,12 +146,6 @@ main.py
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request for bug fixes, new features, or improvements.
-
----
-
 ## 📄 License
 
-This project is open source. Add your preferred license here (e.g., MIT).
+This project is open source.
