@@ -132,16 +132,3 @@ main.py
 - **Payment** is simulated — no real transaction occurs.
 
 ---
-
-## 🐛 Known Issues & Improvements
-
-| Area | Issue / Suggestion |
-|------|--------------------|
-| `order.py` | Duplicate `return get_user_order(menu)` after item not found check |
-| `payment.py` | Unreachable `break` after `return "PAID"` |
-| Data persistence | Orders and cart reset on every run; consider adding JSON/SQLite storage |
-| Menu management | Menu items are hardcoded; an admin interface could allow dynamic updates |
-| Remove from cart | `remove_item()` is defined in `cart.py` but not yet exposed in the main menu |
-| Input validation | Cart removal and payment flows could benefit from stronger input validation |
-
----
