@@ -145,7 +145,3 @@ main.py
 | Input validation | Cart removal and payment flows could benefit from stronger input validation |
 
 ---
-
-## 📄 License
-
-This project is open source.
